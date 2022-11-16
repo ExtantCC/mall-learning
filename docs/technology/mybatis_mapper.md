@@ -1,4 +1,3 @@
-学习不走弯路，[关注公众号](#公众号) 回复「学习路线」，获取mall项目专属学习路线！
 
 # MyBatis Generator使用过程中踩过的一个坑
 
@@ -39,7 +38,7 @@ MyBatis Generator 在1.3.7版本提供了解决方案，我们目前使用的版
 <dependency>
     <groupId>org.mybatis.generator</groupId>
     <artifactId>mybatis-generator-core</artifactId>
-    <version>1.3.7</version>
+    <version>1.4.1</version>
 </dependency>
 ```
 
@@ -58,7 +57,3 @@ MyBatis Generator 在1.3.7版本提供了解决方案，我们目前使用的版
 ## 项目源码地址
 
 [https://github.com/macrozheng/mall-learning/tree/master/mall-tiny-02](https://github.com/macrozheng/mall-learning/tree/master/mall-tiny-02)
-
-## 公众号
-
-![公众号图片](http://macro-oss.oss-cn-shenzhen.aliyuncs.com/mall/banner/qrcode_for_macrozheng_258.jpg)

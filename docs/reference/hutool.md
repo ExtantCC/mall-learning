@@ -1,4 +1,3 @@
-学习不走弯路，[关注公众号](#公众号) 回复「学习路线」，获取mall项目专属学习路线！
 
 # Hutool中那些常用的工具类和方法 
 
@@ -12,7 +11,7 @@ maven项目在pom.xml添加以下依赖即可：
 <dependency>
     <groupId>cn.hutool</groupId>
     <artifactId>hutool-all</artifactId>
-    <version>4.6.3</version>
+    <version>5.8.9</version>
 </dependency>
 ```
 
@@ -238,8 +237,4 @@ Hutool中的工具类很多，可以参考：[https://www.hutool.cn/](https://ww
 ## 项目源码地址
 
 [https://github.com/macrozheng/mall-learning/tree/master/mall-tiny-hutool](https://github.com/macrozheng/mall-learning/tree/master/mall-tiny-hutool)
-
-## 公众号
-
-![公众号图片](http://macro-oss.oss-cn-shenzhen.aliyuncs.com/mall/banner/qrcode_for_macrozheng_258.jpg)
 

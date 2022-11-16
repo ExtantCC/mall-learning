@@ -1,4 +1,3 @@
-学习不走弯路，[关注公众号](#公众号) 回复「学习路线」，获取mall项目专属学习路线！
 
 # mall整合SpringSecurity和JWT实现认证和授权（一）
 
@@ -70,7 +69,7 @@ eyJhbGciOiJIUzUxMiJ9.eyJzdWIiOiJhZG1pbiIsImNyZWF0ZWQiOjE1NTY3NzkxMjUzMDksImV4cCI
 <dependency>
     <groupId>cn.hutool</groupId>
     <artifactId>hutool-all</artifactId>
-    <version>4.5.7</version>
+    <version>5.8.9</version>
 </dependency>
 <!--JWT(Json Web Token)登录支持-->
 <dependency>
@@ -556,6 +555,3 @@ public class JwtAuthenticationTokenFilter extends OncePerRequestFilter {
 ## 项目源码地址
 [https://github.com/macrozheng/mall-learning/tree/master/mall-tiny-04](https://github.com/macrozheng/mall-learning/tree/master/mall-tiny-04)
 
-## 公众号
-
-![公众号图片](http://macro-oss.oss-cn-shenzhen.aliyuncs.com/mall/banner/qrcode_for_macrozheng_258.jpg)

@@ -1,4 +1,3 @@
-学习不走弯路，[关注公众号](#公众号) 回复「学习路线」，获取mall项目专属学习路线！
 
 # 不要再重复造轮子了，这款开源工具类库贼好使！
 
@@ -12,7 +11,7 @@ Hutool的安装非常简单，Maven项目中只需在`pom.xml`添加以下依赖
 <dependency>
     <groupId>cn.hutool</groupId>
     <artifactId>hutool-all</artifactId>
-    <version>5.4.0</version>
+    <version>5.8.9</version>
 </dependency>
 ```
 
@@ -328,7 +327,4 @@ Hutool中的工具类还有很多，可以参考：https://www.hutool.cn/
 
 https://github.com/macrozheng/mall-learning/tree/master/mall-tiny-hutool
 
-## 公众号
-
-![公众号图片](http://macro-oss.oss-cn-shenzhen.aliyuncs.com/mall/banner/qrcode_for_macrozheng_258.jpg)
 

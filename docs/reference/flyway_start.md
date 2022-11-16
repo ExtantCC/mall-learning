@@ -1,4 +1,3 @@
-学习不走弯路，[关注公众号](#公众号) 回复「学习路线」，获取mall项目专属学习路线！
 
 # 数据库迁移搞炸了！没用这款开源神器的锅？
 
@@ -171,7 +170,7 @@ DELETE FROM ums_admin;
         <dependency>
             <groupId>mysql</groupId>
             <artifactId>mysql-connector-java</artifactId>
-            <version>8.0.15</version>
+            <version>8.0.29</version>
         </dependency>
     </dependencies>
 </plugin>
@@ -286,8 +285,4 @@ spring:
 ## 项目源码地址
 
 https://github.com/macrozheng/mall-learning/tree/master/mall-tiny-flyway
-
-## 公众号
-
-![公众号图片](http://macro-oss.oss-cn-shenzhen.aliyuncs.com/mall/banner/qrcode_for_macrozheng_258.jpg)
 

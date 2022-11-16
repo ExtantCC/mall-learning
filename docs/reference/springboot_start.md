@@ -1,4 +1,3 @@
-学习不走弯路，[关注公众号](#公众号) 回复「学习路线」，获取mall项目专属学习路线！
 
 # 肝了一周总结的SpringBoot实战教程，太实用了！
 
@@ -220,19 +219,19 @@ SpringBoot项目可以使用Maven进行构建，首先我们需要继承`spring-
     <dependency>
         <groupId>com.github.pagehelper</groupId>
         <artifactId>pagehelper-spring-boot-starter</artifactId>
-        <version>1.2.10</version>
+        <version>1.4.5</version>
     </dependency>
     <!--集成druid连接池-->
     <dependency>
         <groupId>com.alibaba</groupId>
         <artifactId>druid-spring-boot-starter</artifactId>
-        <version>1.1.10</version>
+        <version>1.2.14</version>
     </dependency>
     <!--Mysql数据库驱动-->
     <dependency>
         <groupId>mysql</groupId>
         <artifactId>mysql-connector-java</artifactId>
-        <version>8.0.15</version>
+        <version>8.0.29</version>
     </dependency>
     <!--springfox swagger官方Starter-->
     <dependency>
@@ -985,6 +984,3 @@ management:
 
 https://github.com/macrozheng/mall-learning/tree/master/mall-tiny-boot
 
-## 公众号
-
-![公众号图片](http://macro-oss.oss-cn-shenzhen.aliyuncs.com/mall/banner/qrcode_for_macrozheng_258.jpg)

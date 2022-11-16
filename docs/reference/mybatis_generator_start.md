@@ -1,4 +1,3 @@
-学习不走弯路，[关注公众号](#公众号) 回复「学习路线」，获取mall项目专属学习路线！
 
 # 解放双手！MyBatis官方代码生成工具给力！
 
@@ -28,25 +27,25 @@ MyBatis Generator（简称MBG）是MyBatis官方提供的代码生成工具。�
     <dependency>
         <groupId>com.github.pagehelper</groupId>
         <artifactId>pagehelper-spring-boot-starter</artifactId>
-        <version>1.3.0</version>
+        <version>1.4.5</version>
     </dependency>
     <!--集成druid连接池-->
     <dependency>
         <groupId>com.alibaba</groupId>
         <artifactId>druid-spring-boot-starter</artifactId>
-        <version>1.1.10</version>
+        <version>1.2.14</version>
     </dependency>
     <!-- MyBatis 生成器 -->
     <dependency>
         <groupId>org.mybatis.generator</groupId>
         <artifactId>mybatis-generator-core</artifactId>
-        <version>1.4.0</version>
+        <version>1.4.1</version>
     </dependency>
     <!--Mysql数据库驱动-->
     <dependency>
         <groupId>mysql</groupId>
         <artifactId>mysql-connector-java</artifactId>
-        <version>8.0.15</version>
+        <version>8.0.29</version>
     </dependency>
 </dependencies>
 ```
@@ -607,6 +606,3 @@ public interface UmsAdminDao {
 
 https://github.com/macrozheng/mall-learning/tree/master/mall-tiny-generator
 
-## 公众号
-
-![公众号图片](http://macro-oss.oss-cn-shenzhen.aliyuncs.com/mall/banner/qrcode_for_macrozheng_258.jpg)
